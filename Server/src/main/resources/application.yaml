@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: canteen_connect
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/
+      database: hosteldb
+      auto-index-creation: true
+
+security:
+  jwt:
+    secret-key: 4e6e8405bb584b74de3ea81fa12f39a7c04168a725b7dd840d7f68215eadc360
+    expiration-time: 3600000

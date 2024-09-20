@@ -1,0 +1,69 @@
+# Node.js (React frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output directories (React)
+build/
+dist/
+out/
+.cache/
+.next/
+public/*.css
+
+# Environment variables (React)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Java (backend)
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+*.h2.*
+*.log
+
+# Maven
+target/
+!target/*.jar
+
+# Gradle
+.gradle/
+build/
+!build/libs/*.jar
+
+# Logs
+logs/
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Compiled files
+*.js
+*.jsx
+*.ts
+*.tsx
+*.map
+
+# Coverage reports
+coverage/
+lcov-report/
+
+# System files
+.DS_Store
+Thumbs.db

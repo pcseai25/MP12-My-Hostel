@@ -1,0 +1,212 @@
+[
+    [
+        {
+            "day" : "Monday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Monday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Monday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Monday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ],
+    [
+        {
+            "day" : "Tuesday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Tuesday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Tuesday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Tuesday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ],
+    [
+        {
+            "day" : "Wednesday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Wednesday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Wednesday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Wednesday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ],
+    [
+        {
+            "day" : "Thursday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Thursday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Thursday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Thursday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ],
+    [
+        {
+            "day" : "Friday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Friday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Friday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Friday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ],
+    [
+        {
+            "day" : "Saturday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Saturday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Saturday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Saturday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ],
+    [
+        {
+            "day" : "Sunday",
+            "time" : "Breakfast",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Sunday",
+            "time" : "Lunch",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Sunday",
+            "time" : "Snacks",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        },
+        {
+            "day" : "Sunday",
+            "time" : "Dinner",
+            "item1" : "Tea and Coffee",
+            "item2" : "Milk",
+            "item3" : "Fruit"
+        }
+    ]
+]
