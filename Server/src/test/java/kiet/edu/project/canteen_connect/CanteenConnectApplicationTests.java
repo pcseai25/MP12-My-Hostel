@@ -8,6 +8,7 @@ class CanteenConnectApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }

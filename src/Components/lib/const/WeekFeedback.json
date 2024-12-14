@@ -1,22 +1,22 @@
 [
     {
         "label" : "Week 1",
-        "Positive" : 50,
-        "Negative" : 50
+        "Positive" : 10,
+        "Negative" : 6
     },
     {
         "label" : "Week 2",
-        "Positive" : 60,
-        "Negative" : 40
+        "Positive" : 7,
+        "Negative" : 3
     },
     {
         "label" : "Week 3",
-        "Positive" : 40,
-        "Negative" : 60
+        "Positive" : 4,
+        "Negative" : 8
     },
     {
         "label" : "Week 4",
-        "Positive" : 50,
-        "Negative" : 50
+        "Positive" : 3,
+        "Negative" : 6
     }
 ]

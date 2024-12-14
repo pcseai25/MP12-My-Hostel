@@ -40,8 +40,7 @@ public class SecurityConfig {
                         auth -> auth
                                 .requestMatchers(HttpMethod.POST, "/api/v1/users/login", "/api/v1/users/register").permitAll()
                                 .requestMatchers("/api/v1/admins/**").hasRole(Role.ADMIN.name())
-                                .requestMatchers("api/v1/users/**").hasRole(Role.CONSUMER.name())
-                                .requestMatchers("api/v1/vendors/**").hasRole(Role.VENDOR.name())
+                                .requestMatchers(HttpMethod.GET,"/api/v1/users/**").hasRole(Role.CONSUMER.name())
                                 .anyRequest().authenticated())
                 .addFilterBefore(jwtAuthenticationFilter, UsernamePasswordAuthenticationFilter.class);
         return http.build();

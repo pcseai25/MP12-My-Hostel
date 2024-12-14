@@ -33,6 +33,10 @@ public class User {
     @NonNull
     String address;
 
+    String food;
+
+    String comment;
+
     Role role = Role.CONSUMER;
 
     boolean isOpen = false;
