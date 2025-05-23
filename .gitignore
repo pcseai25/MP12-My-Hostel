@@ -53,12 +53,6 @@ logs/
 *.swp
 *.bak
 
-# Compiled files
-*.js
-*.jsx
-*.ts
-*.tsx
-*.map
 
 # Coverage reports
 coverage/
